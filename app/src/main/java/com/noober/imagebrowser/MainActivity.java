@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity {
         list.add("http://img1.imgtn.bdimg.com/it/u=3920398476,1501488149&fm=27&gp=0.jpg");
         list.add("http://img1.imgtn.bdimg.com/it/u=3920398476,1501488149&fm=27&gp=0.jpg");
         list.add("http://img1.imgtn.bdimg.com/it/u=3920398476,1501488149&fm=27&gp=0.jpg");list.add("http://img1.imgtn.bdimg.com/it/u=3920398476,1501488149&fm=27&gp=0.jpg");
-        //test1
+        //test12
+        //test2
         imageBrowser.setImageList(list);
     }
 }
